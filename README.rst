@@ -1,5 +1,10 @@
 pizzapi
 =======
+This is a fork of `the pizzapi module <https://github.com/RIAEvangelist/node-dominos-pizza-api>`_ written by gamagori.
+
+Only functional change is country is set to Canada. An example was also added.
+
+To install, run python3 setup.py install from the `pizzapi` directory of the project.
 
 Description
 -----------
