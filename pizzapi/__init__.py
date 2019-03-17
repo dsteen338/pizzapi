@@ -7,3 +7,4 @@ from .payment import PaymentObject
 from .store import Store
 from .track import track_by_order, track_by_phone
 from .utils import request_json, request_xml
+from .example import Example
